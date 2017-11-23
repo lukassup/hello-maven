@@ -16,8 +16,8 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:git@github.com:lukassup/hello-maven.git</developerConnection>
-    <connection>scm:git:git@github.com:lukassup/hello-maven.git</connection>
+    <developerConnection>scm:git:https://github.com/lukassup/hello-maven.git</developerConnection>
+    <connection>scm:git:https://github.com/lukassup/hello-maven.git</connection>
     <url>https://github.com/lukassup/hello-maven</url>
     <tag>HEAD</tag>
   </scm>
